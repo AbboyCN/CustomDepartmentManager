@@ -10,7 +10,62 @@ CustomDepartmentManer is a Minecraft spigot plugin.It can provide a number of fu
 Attention! some versions of this plugin are made to order ,enable the plugin and type ``/about`` to check it!
 
 ## The function this plugin provide
+### 0.Before you continue,you need to know:
+#### The permission system
+there are 5 kind of permission
+- Anyone:Any player in the game.
+- Not a member:The comman player,not a member of the logistics department.
+- Member:A member of the logistics department.
+- Subboss:The subboss and the boss of the logistics department.
+- Boss:The boss of the logistics department.
+### 1.Join game message
+If a member of logistics departmens log in and join game,The plugin will boardcast message to all players:This player is a member of logistics department,you can create a order online.
+### 2.Member organise
+CustomDepartmentManer use a complete system to organise the member of the logistics department.
+#### /dmallow
+Allow a new player join the logistics department.
 
+usage:`/dmallow <playername>`
+
+permission:Member
+
+remark:Playername must be a online player,not banned from the logistics department,and not a member of logistics department before the command was executed.
+#### /dmban
+Ban a player from the logistics department.
+
+usage:`/dmban <playername>`
+
+permission:Subboss
+
+remark:Playername must be an unbaned player.
+#### /dmjoin
+Apply to join the logistics department.
+
+usage:`/dmjoin`
+
+permission:Not a member
+#### /dmkick
+Kick a member from the logistics department.
+
+usage:`/dmkick <membername>`
+
+permission:Subboss
+
+remark:Membername must be a member of logistics department.
+#### /dmmember
+Get a list of the member of logistics department.
+
+usage:`/dmmember`
+
+permission:Anyone
+#### /dmunban
+Unban a player from the bannedlist.
+
+usage:`/dmunban <playername>`
+
+permission:Subboss
+
+remark:Playername must be a banned player.
 ## What will be updade in the future?
 
 ## About us & Join us
