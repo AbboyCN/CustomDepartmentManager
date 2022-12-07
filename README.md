@@ -67,7 +67,7 @@ permission:Subboss
 
 remark:Playername must be a banned player.
 ## What will be updade in the future?
-
+We are planing... Please wait...
 ## About us & Join us
 If you:
 - Interested in our project;
