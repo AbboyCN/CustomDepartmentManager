@@ -9,6 +9,18 @@ CustomDepartmentManer is a Minecraft spigot plugin.It can provide a number of fu
 
 Attention! some versions of this plugin are made to order ,enable the plugin and type ``/about`` to check it!
 
+## The function this plugin provide
+
+## What will be updade in the future?
+
+## About us & Join us
+If you:
+- Interested in our project;
+- Have the basic knowledge of the java development;
+- Good at communicate with others,
+
+You can join us.Send an email to us and wait for our reply!
+
 ## 什么是CustomDepartmentManer？
 CustomDepartmentManer是一个 Minecraft spigot 插件。它提供了诸多功能，帮助你轻松管理服务器内的后勤部门。它支持 Minecraft 1.18.1+ 版本。
 
