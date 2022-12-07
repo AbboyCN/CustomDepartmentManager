@@ -7,7 +7,7 @@ A minecraft plugin which allows you manage the logistics department in a spigot 
 ## What is CustomDepartmentManer?
 CustomDepartmentManer is a Minecraft spigot plugin.It can provide a number of functions and help you manage the logistics department in the server easily.It support the Minecraft 1.18.1+.
 
-Attention! some versions of this plugin are made to order ,enable the plugin and type ``/about`` to check it!
+Attention! some versions of this plugin are made to order ,enable the plugin and type ``/dmabout`` to check it!
 
 ## The function this plugin provide
 ### 0.Before you continue,you need to know:
