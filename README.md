@@ -84,7 +84,7 @@ If you:
 - Good at communicate with others,
 
 You can join us.Send an email to us and wait for our reply!
-
+***************
 ## 什么是CustomDepartmentManer？
 CustomDepartmentManer是一个 Minecraft spigot 插件。它提供了诸多功能，帮助你轻松管理服务器内的后勤部门。它支持 Minecraft 1.18.1+ 版本。
 
