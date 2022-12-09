@@ -45,7 +45,7 @@ Dispromotion a member to a lower level.
 #### /dmpromotion
 Promotion a member to a higher level.
 ### 4.Order System
-The big event!It is the main function of this plugin!
+The priority among priorities!It is the main function of this plugin!
 #### /dmdel (/dmdelete)
 Delete a item of a order.
 #### /dmdel-order (/dmdelete-order)
