@@ -76,7 +76,8 @@ Get the infomation of this plugin,including version,isable and so on.
 #### /dmjoke
 Just a joke.The effect will change each version.
 ## What will be updade in the future?
-We are planing... Please wait...
+### The plugin for 1.19.1
+MOJANG has updated minecraft 1.19.1,and now we need to update the plugin to make it adapt to the new version.
 ## About us & Join us
 If you:
 - Interested in our project;
