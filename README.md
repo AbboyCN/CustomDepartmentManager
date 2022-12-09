@@ -65,7 +65,7 @@ It provide a interior channel and let you talk with the member of the logistics 
 #### /dmchat
 Send a message to all of the online member of logistics department.
 #### /dmremind
-Send a powerful message to someone.The plugin let he or her know BY ALL MAINS!.
+Send a powerful message to someone.The plugin let he or her know **BY ALL MEANS**!.
 ### 6.Get support
 These functions can help you use the plugin.
 #### /dm (/dmhelp)
