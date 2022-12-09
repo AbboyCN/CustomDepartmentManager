@@ -61,7 +61,7 @@ Check a list of the orders
 #### /dmorder
 Order a list of the things you want.
 ### 5.Interior chat
-It provide a interior channel and let you talk with the member of the logistics department,more easy-use than `/w`,`/msg`,`/tell`!.
+It provide a interior channel and let you talk with the member of the logistics department,more easy-use than `/w`,`/msg`,`/tell`!
 #### /dmchat
 Send a message to all of the online member of logistics department.
 #### /dmremind
