@@ -90,3 +90,51 @@ You can join us.Send an email to us and wait for our reply!
 CustomDepartmentManer是一个 Minecraft spigot 插件。它提供了诸多功能，帮助你轻松管理服务器内的后勤部门。它支持 Minecraft 1.18.1+ 版本。
 
 请务必注意！插件的部分版本为个别服务器的定制版本，加载插件到您的服务器中并输入命令``/dmabout``以查看插件版本！
+## 此插件提供的功能
+### 0.在继续之前，你需要了解：
+#### 权限系统
+共有5种权限
+- Anyone:任何玩家
+- Not a member:不是后勤成员的玩家
+- Member:后勤成员
+- Subboss:后勤部副部长或部长
+- Boss:后勤部部长
+### 1.进入游戏信息
+如果一个后勤成员登录并进入游戏，插件会向所有在线玩家广播消息:此玩家是后勤部成员，你可以在线上发起订单。
+### 2.成员组织系统
+CustomDepartmentManager使用一套完整的系统体系来组织后勤成员。
+#### /dmallow
+允许一个新玩家加入后勤部
+#### /dmban
+从后勤部封禁一位玩家
+#### /dmjoin
+申请加入后勤部
+#### /dmkick
+从后勤部踢出一位玩家
+#### /dmmember
+获取成员列表
+#### /dmunban
+从后勤部解除封禁一位玩家
+### 3.职位等级系统
+CustomDepartmentManager拥有一个默认的等级系统，包括普通成员、副部长、部长。
+#### /dmdispromotion
+降职一位玩家
+#### /dmpromotion
+升职一位玩家
+### 4.订单系统
+重中之重！这是这个插件的主要功能！
+#### /dmdel(/dmdelete)
+移除订单中的一个物品
+#### /dmdel-order(/dmdelete-order)
+移除一个订单
+#### /dmfn(/dmfinish)
+完成订单中的一个物品
+#### /dmfn-order(/dmfinish-order)
+完成一个订单
+#### /dminfo(/dminfomation)
+查看订单详细信息
+#### /dmlist
+查看订单列表
+#### /dmorder
+发起订单
+### 5.内部聊天系统
